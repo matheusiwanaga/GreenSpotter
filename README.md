@@ -47,3 +47,5 @@ GreenSpotterの特徴は、あまり知られていない、地元の人だけ�
 ### その後の機能
 * 評価とコメント
 * ローカルガイドとのパートナーシップ
+
+画面設計図リンク：　https://www.figma.com/file/UtBdnhtsx9uMhcIHFNBdSq/GreenSpotted?type=design&node-id=0%3A1&mode=design&t=ySNkJ1tGgTx2gQtN-1
