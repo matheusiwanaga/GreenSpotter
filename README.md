@@ -48,4 +48,21 @@ GreenSpotterの特徴は、あまり知られていない、地元の人だけ�
 * 評価とコメント
 * ローカルガイドとのパートナーシップ
 
-画面設計図リンク：　https://www.figma.com/file/UtBdnhtsx9uMhcIHFNBdSq/GreenSpotted?type=design&node-id=0%3A1&mode=design&t=ySNkJ1tGgTx2gQtN-1
+## 使用する技術
+
+バックエンド
+ Ruby on Rails
+フロントエンド
+	* HTML、CSS、およびJavaScript : サイトの基本的な構造とインタラクティビティのために、HTML、CSS、およびJavaScriptを使用します。
+	* Vue.js : Vue.jsを使用することを検討しています。
+	* Bootstrap : レスポンシブデザインとスタイリングのために　Bootstrapを使用する予定です。
+データベース
+	PostgreSQL
+追加ツール
+	GitとGithub : コードのバージョン管理とコラボレーションのために、GitとGitHubを使用します。
+	Heroku: アプリケーションのホスティングとデプロイメント
+	Figma: インターフェースのデザインとプロトタイピング
+テストとメンテナンス
+	RSpec (Rails用)
+
+## 画面設計図リンク：　https://www.figma.com/file/UtBdnhtsx9uMhcIHFNBdSq/GreenSpotted?type=design&node-id=0%3A1&mode=design&t=ySNkJ1tGgTx2gQtN-1
