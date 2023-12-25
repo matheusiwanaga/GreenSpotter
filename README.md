@@ -65,7 +65,9 @@ GreenSpotterの特徴は、あまり知られていない、地元の人だけ�
 テストとメンテナンス
 	RSpec (Rails用)
 
-## 画面遷移図リンク：　https://www.figma.com/file/UtBdnhtsx9uMhcIHFNBdSq/GreenSpotted?type=design&node-id=0%3A1&mode=design&t=XLE7mK5qjN3T0gGJ-1
+## 画面遷移図リンク　
 
-##　ER図
+https://www.figma.com/file/UtBdnhtsx9uMhcIHFNBdSq/GreenSpotted?type=design&node-id=0%3A1&mode=design&t=XLE7mK5qjN3T0gGJ-1
+
+## ER図
 https://app.diagrams.net/#Hmatheusiwanaga%2FGreenSpotter%2FDevelop%2FGreenSpotterER%E5%9B%B3.drawio.png
